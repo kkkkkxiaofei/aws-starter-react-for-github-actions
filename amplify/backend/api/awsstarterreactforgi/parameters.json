@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "awsstarterreactforgi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
