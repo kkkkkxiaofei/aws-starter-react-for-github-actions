@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3awsstarterreactforgithubactionsstorage36161245",
+  "bucketName": "aws-starterreactforgithubactionsstorage36161245",
+  "policyUUID": "4894a3d1",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

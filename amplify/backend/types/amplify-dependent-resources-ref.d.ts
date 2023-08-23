@@ -11,5 +11,11 @@ export type AmplifyDependentResourcesAttributes = {
       "UserPoolId": "string",
       "UserPoolName": "string"
     }
+  },
+  "storage": {
+    "s3awsstarterreactforgithubactionsstorage36161245": {
+      "BucketName": "string",
+      "Region": "string"
+    }
   }
 }
